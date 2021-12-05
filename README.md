@@ -32,3 +32,5 @@ Support Vector Regression uses the concept of support vector machines to unravel
 We performed clustering analysis in order to answer the question, ”Which countries are most similar in terms of trust in media and government ?”
 
 Full results of this study can be found in the corresponding paper.
+
+Project by : <a href="https://github.com/anusha2904">Anusha</a>, <a href="https://github.com/Chakita">Chakita M </a>, <a href="https://github.com/ParimalaS27">Parimala S</a> and <a href="https://github.com/LawJarp-A">Prajwal</a>
